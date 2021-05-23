@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseWork_KovalVadim_IS01.Guest">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAAAAAAKAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>GuestClass\Guest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork_KovalVadim_IS01.Hotel">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEgARECCABAAAAIAAIAAKABQAAAAAAIAEAAAAI=</HashCode>
+      <FileName>HotelClass\Hotel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork_KovalVadim_IS01.Room" Collapsed="true">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAgAAAAIABBkEAGAIAAAACAAAAAQAASAAwAAAAA=</HashCode>
+      <FileName>IRoom + Room\Room.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork_KovalVadim_IS01.LuxRoom" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABACAAABCEAAAAAAAACAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>RoomTypes\LuxRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork_KovalVadim_IS01.MiddleRoom" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABAAAAABCEAAAAAAAACAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>RoomTypes\MiddleRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork_KovalVadim_IS01.StandartRoom" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAABAEAAAAAAAACAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>RoomTypes\StandartRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork_KovalVadim_IS01.Program">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAiQAEAACAAAAgAgAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork_KovalVadim_IS01.RoomEventArgs">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>RoomStateHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CourseWork_KovalVadim_IS01.IRoom">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IRoom + Room\IRoom.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="CourseWork_KovalVadim_IS01.MealType">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="CourseWork_KovalVadim_IS01.RoomStateHandler" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RoomStateHandler.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="CourseWork_KovalVadim_IS01.NextDayHandler" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RoomStateHandler.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
